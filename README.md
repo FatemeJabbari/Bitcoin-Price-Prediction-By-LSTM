@@ -1,10 +1,5 @@
 📈 Bitcoin Price Prediction Using LSTM
 
-
-
-
-
-
 🎓 Overview
 
 This repository implements a Long Short-Term Memory (LSTM) neural network model to predict Bitcoin prices using historical price data. LSTM networks are a type of Recurrent Neural Network (RNN) especially well-suited for time-series forecasting due to their ability to learn long-term dependencies in sequential data. Models like this are widely used in financial forecasting research and applications. 
@@ -59,6 +54,7 @@ GitHub
 
 📈 Visualizations
 🟦 Actual vs Predicted Prices
+
 
 A common visualization used in forecasting projects is a comparison between the real prices and the model’s predicted values:
 
